@@ -1,3 +1,3 @@
-# 3LC
+# 3LC .github
 
-`pip install 3lc`
+This repository holds the `README.md` shown on the `3lc-ai` organization page. See `profile/README.md` for the file.
