@@ -3,7 +3,7 @@
     <source srcset="../assets/3LC-RegularDrk.svg" media="(prefers-color-scheme: dark)" />
     <img src="../assets/3LC-RegularLght.svg" alt="3LC logo" />
     </picture>
-    <div style="margin: 20px 0; height: 50px; width: 1px; background-color: black;"></div>
+    <br><br>
 </div>
 
 [3LC](3lc.ai) enables real-time debugging, diagnosis and improvement of training data, to create better, faster and smaller AI models. See your dataset through your model's eyes and make sparse, versioned edits to make the most of every sample.
